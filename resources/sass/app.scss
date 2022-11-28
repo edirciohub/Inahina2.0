@@ -1,8 +1,13 @@
 // Fonts
 @import url('https://fonts.bunny.net/css?family=Nunito');
 
+@import url('https://cdn.datatables.net/1.12.1/css/jquery.dataTables.min.css');
+
 // Variables
 @import 'variables';
 
 // Bootstrap
 @import 'bootstrap/scss/bootstrap';
+
+//Dashboard
+@import "dashboard";
